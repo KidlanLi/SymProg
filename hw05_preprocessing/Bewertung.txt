@@ -1,0 +1,7 @@
+hw05_preprocessing.test_preprocessor.PreprocessorTest.test_00_constructor OK        2/2 points
+hw05_preprocessing.test_preprocessor.PreprocessorTest.test_01_get_no_of_sents OK        1/1 points
+hw05_preprocessing.test_preprocessor.PreprocessorTest.test_02_tokenize_text OK        1/1 points
+hw05_preprocessing.test_preprocessor.PreprocessorTest.test_03_get_20_most_frequent_words OK        4/4 points
+hw05_preprocessing.test_preprocessor.PreprocessorTest.test_04_get_originality_score OK        2/2 points
+####################################
+TOTAL: 10/10 points

@@ -1,0 +1,7 @@
+hw03_docs.test_documents.TextDocumentTest.testTokenizer               OK        2/2 points
+hw03_docs.test_documents.TextDocumentTest.testConstructor             OK        2/2 points
+hw03_docs.test_documents.TextDocumentTest.testFromFileMethod          OK        2/2 points
+hw03_docs.test_documents.TextDocumentTest.testToString                OK        2/2 points
+hw03_docs.test_documents.TextDocumentTest.testWordOverlap             OK        2/2 points
+####################################
+TOTAL: 10/10 points

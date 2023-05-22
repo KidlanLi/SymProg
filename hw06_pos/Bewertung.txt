@@ -1,0 +1,7 @@
+hw06_pos.test_pos_match.SentenceTest.test_01_from_file                OK        2/2 points
+hw06_pos.test_pos_match.PosExprTest.test_02_from_string               OK        1/1 points
+hw06_pos.test_pos_match.PosExprTest.test_03_match_expr                OK        2/2 points
+hw06_pos.test_pos_match.PosExprTest.test_04_match_seq                 FAILED    0/3 points
+hw06_pos.test_pos_match.PosExprTest.test_05_find_str                  FAILED    0/2 points
+####################################
+TOTAL: 5/10 points

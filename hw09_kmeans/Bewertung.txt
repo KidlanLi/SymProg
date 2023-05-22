@@ -1,0 +1,8 @@
+hw09_kmeans.test_kmeans.ClusteringTest.test_01_courses                OK        1/1 points
+hw09_kmeans.test_kmeans.ClusteringTest.test_02_normalize              OK        1/1 points
+hw09_kmeans.test_kmeans.ClusteringTest.test_03_vocabulary             OK        1/1 points
+hw09_kmeans.test_kmeans.ClusteringTest.test_04_distance               OK        1/1 points
+hw09_kmeans.test_kmeans.ClusteringTest.test_05_vector_mean            OK        1/1 points
+hw09_kmeans.test_kmeans.ClusteringTest.test_06_classify               OK        1/1 points
+####################################
+TOTAL: 6/6 points

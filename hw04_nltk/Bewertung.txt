@@ -1,0 +1,14 @@
+hw04_nltk.test_document.DocumentTest.test_inheritance                 FAILED    0/1 points
+hw04_nltk.test_document.DocumentTest.test_constructor                 FAILED    0/1 points
+hw04_nltk.test_document.DocumentTest.test_author                      FAILED    0/1 points
+hw04_nltk.test_analyzer.AnalyzerTest.constructor                      FAILED    0/1 points
+hw04_nltk.test_analyzer.AnalyzerTest.test_01_numberOfTokens           FAILED    0/1 points
+hw04_nltk.test_analyzer.AnalyzerTest.test_02_size                     FAILED    0/1 points
+hw04_nltk.test_analyzer.AnalyzerTest.test_03_diversity                FAILED    0/1 points
+hw04_nltk.test_analyzer.AnalyzerTest.test_04_get_keywords             FAILED    0/1 points
+hw04_nltk.test_analyzer.AnalyzerTest.test_05_numberOfHapaxes          FAILED    0/1 points
+hw04_nltk.test_analyzer.AnalyzerTest.test_06_avWordLength             FAILED    0/1 points
+hw04_nltk.test_lang_guesser.LangGuesserTest.test_01_build_language_models FAILED    0/2 points
+hw04_nltk.test_lang_guesser.LangGuesserTest.test_02_guess_language    FAILED    0/2 points
+####################################
+TOTAL: 0/14 points

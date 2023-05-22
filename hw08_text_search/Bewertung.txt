@@ -1,0 +1,12 @@
+hw08_text_search.test_comprehensions.TestComprehensions.test_multiply_by OK        1/1 points
+hw08_text_search.test_comprehensions.TestComprehensions.test_check_division OK        1/1 points
+hw08_text_search.test_comprehensions.TestComprehensions.test_div_less OK        1/1 points
+hw08_text_search.test_comprehensions.TestComprehensions.test_map_zip  OK        1/1 points
+hw08_text_search.test_comprehensions.TestComprehensions.test_word_to_length OK        1/1 points
+hw08_text_search.test_text_search.DoctestTest.test_doctest            OK        2/2 points
+hw08_text_search.test_text_search.DocumentCollectionTest.test_cosine  OK        1/1 points
+hw08_text_search.test_text_search.TextDocumentTest.test_preprocessing OK        1/1 points
+hw08_text_search.test_text_search.SearchEngineTest.test_docs_with_some_tokens OK        1/1 points
+hw08_text_search.test_text_search.SearchEngineTest.test_display_entire OK        1/1 points
+####################################
+TOTAL: 11/11 points

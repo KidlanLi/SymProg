@@ -1,0 +1,6 @@
+hw07_wordnet.test_wordnet.WordnetTest.test_01_noun_similarity         OK        4/4 points
+hw07_wordnet.test_wordnet.WordnetTest.test_02_lemma_names             OK        6/6 points
+hw07_wordnet.test_wordnet.WordnetTest.test_03_hypernymOF              OK        1/1 points
+hw07_wordnet.test_wordnet.WordnetTest.test_04_hyponyms                OK        3/3 points
+####################################
+TOTAL: 14/14 points

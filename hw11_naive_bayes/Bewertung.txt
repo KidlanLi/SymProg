@@ -1,0 +1,7 @@
+hw11_naive_bayes.test_naive_bayes.NaiveBayesTest.test01_from_list_of_feature_occurrences_01 OK        1/1 points
+hw11_naive_bayes.test_naive_bayes.NaiveBayesTest.test02_for_dataset_01 OK        3/3 points
+hw11_naive_bayes.test_naive_bayes.NaiveBayesTest.test03_prediction_01 OK        6/6 points
+hw11_naive_bayes.test_naive_bayes.NaiveBayesTest.test04_prediction_accuracy_01 OK        4/4 points
+hw11_naive_bayes.test_naive_bayes.NaiveBayesTest.test05_log_odds_for_word_01 OK        6/6 points
+####################################
+TOTAL: 20/20 points

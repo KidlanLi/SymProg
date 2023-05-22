@@ -1,0 +1,8 @@
+hw10_knn.test_knn.ClassificationTest.test_01_calc_sims                OK        1/1 points
+hw10_knn.test_knn.ClassificationTest.test_02_order_near_to_far        OK        1/1 points
+hw10_knn.test_knn.ClassificationTest.test_03_labels_k_closest         OK        1/1 points
+hw10_knn.test_knn.ClassificationTest.test_04_choose_neighbor          OK        1/1 points
+hw10_knn.test_knn.ClassificationTest.test_05_classify                 OK        1/1 points
+hw10_knn.test_knn.ClassificationTest.test_06_accuracy                 OK        1/1 points
+####################################
+TOTAL: 6/6 points
